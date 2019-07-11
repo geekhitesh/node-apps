@@ -1,0 +1,11 @@
+first-app/chat-app/node_modules
+first-app/express-app/node_modules
+first-app/mongodb-app/node_modules
+first-app/notes-app/node_modules
+first-app/task-manager/node_modules
+first-app/weather-app/node_modules
+first-app/web-server/node_modules/
+second-app/AdvancedNodeStarter/node_modules
+second-app/AdvancedNodeStarter/client/node_modules
+second-app/soap_sample/node_modules
+second-app/soap-sample/node_modules

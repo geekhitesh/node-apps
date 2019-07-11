@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <soapenv:Body>
+  <notifications xmlns="http://soap.sforce.com/2005/09/outbound">
+   <OrganizationId>00D9D0000008cDmUAI</OrganizationId>
+   <ActionId>04k6F0000000AEeQAM</ActionId>
+   <SessionId xsi:nil="true"/>
+   <EnterpriseUrl>https://cs76.salesforce.com/services/Soap/c/42.0/00D9D0000008cDm</EnterpriseUrl>
+   <PartnerUrl>https://cs76.salesforce.com/services/Soap/u/42.0/00D9D0000008cDm</PartnerUrl>
+   <Notification>
+    <Id>04l9D000000DzV1QAK</Id>
+    <sObject xsi:type="sf:RealtyForce__Matched_Property__c" xmlns:sf="urn:sobject.enterprise.soap.sforce.com">
+     <sf:Id>a0T9D000000GU65UAG</sf:Id>
+     <sf:Name>P-415781</sf:Name>
+     <sf:RealtyForce__Availability_Status__c>Approved</sf:RealtyForce__Availability_Status__c>
+     <sf:RealtyForce__Category_Type__c>Builder Floor</sf:RealtyForce__Category_Type__c>
+     <sf:RealtyForce__No_Of_Bedrooms__c>4</sf:RealtyForce__No_Of_Bedrooms__c>
+     <sf:RealtyForce__No_Of_Floors__c>6</sf:RealtyForce__No_Of_Floors__c>
+     <sf:RealtyForce__Picklist__c>Residential</sf:RealtyForce__Picklist__c>
+     <sf:RealtyForce__Status__c>Active</sf:RealtyForce__Status__c>
+     <sf:RealtyForce__Transaction_Type__c>Sale</sf:RealtyForce__Transaction_Type__c>
+     <sf:Share_To_Buniyad_Website__c>true</sf:Share_To_Buniyad_Website__c>
+    </sObject>
+   </Notification>
+   <Notification>
+    <Id>04l9D000000DzV1QAK</Id>
+    <sObject xsi:type="sf:RealtyForce__Matched_Property__c" xmlns:sf="urn:sobject.enterprise.soap.sforce.com">
+     <sf:Id>a0T9D000000GU65UAG</sf:Id>
+     <sf:Name>P-415781</sf:Name>
+     <sf:RealtyForce__Availability_Status__c>Approved</sf:RealtyForce__Availability_Status__c>
+     <sf:RealtyForce__Category_Type__c>Builder Floor</sf:RealtyForce__Category_Type__c>
+     <sf:RealtyForce__No_Of_Bedrooms__c>4</sf:RealtyForce__No_Of_Bedrooms__c>
+     <sf:RealtyForce__No_Of_Floors__c>6</sf:RealtyForce__No_Of_Floors__c>
+     <sf:RealtyForce__Picklist__c>Residential</sf:RealtyForce__Picklist__c>
+     <sf:RealtyForce__Status__c>Active</sf:RealtyForce__Status__c>
+     <sf:RealtyForce__Transaction_Type__c>Sale</sf:RealtyForce__Transaction_Type__c>
+     <sf:Share_To_Buniyad_Website__c>true</sf:Share_To_Buniyad_Website__c>
+    </sObject>
+   </Notification>
+  </notifications>
+ </soapenv:Body>
+</soapenv:Envelope>
